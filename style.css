@@ -1,0 +1,29 @@
+.containers {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.support-form {
+    width: 40%
+}
+
+.form-group {
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.submit-btn {
+    margin-top: 6%;
+    width: 100%
+}
+
+.text-label {
+    color: white;
+}
+
+.input-text {
+    margin-top: 2%;
+}
